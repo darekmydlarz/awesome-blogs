@@ -23,3 +23,4 @@
 * https://piotrminkowski.com/
 * [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg) 📹
 * https://www.marcobehler.com/guides
+* https://vladmihalcea.com/blog/
