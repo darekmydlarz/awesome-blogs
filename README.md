@@ -28,6 +28,7 @@
 ## OOP & Software Craftsmanship 
 * https://www.yegor256.com/
 * https://blog.pragmaticengineer.com/
+* https://phauer.com/
 
 ## Performance & Tunning
 * 
