@@ -11,6 +11,9 @@
 * https://coralogix.com/category/Log-analytics-blog/
 * https://wiadrodanych.pl/ 🇵🇱
 
+# Java
+* https://java.christmas/
+
 ## Magazines & Companies
 * https://increment.com/
 * http://jvm-bloggers.com/
@@ -21,7 +24,10 @@
 * https://www.yegor256.com/
 * https://blog.pragmaticengineer.com/
 
-## Java / Spring
+## Performance & Tunning
+* 
+
+## Spring
 * https://reflectoring.io/ 
 * https://www.marcobehler.com/guides
 * https://piotrminkowski.com/
