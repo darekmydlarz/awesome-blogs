@@ -1,4 +1,4 @@
-# IT BLOGS
+# Awesome Blogs
 
 ## Distributed Systems & Architecture
 * https://patoarchitekci.io/ 🇵🇱
@@ -12,6 +12,7 @@
 
 ## Magazines
 * https://increment.com/
+* http://jvm-bloggers.com/
 
 ## OOP & Software Craftsmanship 
 * https://www.yegor256.com/
