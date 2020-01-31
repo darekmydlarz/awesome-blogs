@@ -14,6 +14,7 @@
 ## Elasticsearch, Logs
 * https://coralogix.com/category/Log-analytics-blog/
 * https://wiadrodanych.pl/ 🇵🇱
+* https://sematext.com/blog/
 
 # Java
 * https://java.christmas/
