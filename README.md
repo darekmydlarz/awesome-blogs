@@ -5,7 +5,8 @@
 * https://engineering.linkedin.com/blog
 
 ## Docker & Kubernetes
-* http://szkoladockera.pl/
+* http://szkoladockera.pl/ 🇵🇱
+* https://vsupalov.com/articles/
 
 ## Elasticsearch, Logs
 * https://coralogix.com/category/Log-analytics-blog/
