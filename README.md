@@ -11,9 +11,11 @@
 * https://coralogix.com/category/Log-analytics-blog/
 * https://wiadrodanych.pl/ 🇵🇱
 
-## Magazines
+## Magazines & Companies
 * https://increment.com/
 * http://jvm-bloggers.com/
+* https://blog.softwaremill.com/
+* https://www.nexocode.com/blog/
 
 ## OOP & Software Craftsmanship 
 * https://www.yegor256.com/
