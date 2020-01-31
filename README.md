@@ -4,6 +4,9 @@
 * https://netflixtechblog.com/@NetflixTechBlog
 * https://engineering.linkedin.com/blog
 
+## DDD
+* https://medium.com/design-and-tech-co
+
 ## Docker & Kubernetes
 * http://szkoladockera.pl/ 🇵🇱
 * https://vsupalov.com/articles/
