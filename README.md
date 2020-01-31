@@ -44,3 +44,4 @@
 ## Videos 📹
 * [Warsaw JUG](https://www.youtube.com/channel/UC2coGyxf5x_CzJ3l4F-N-Sw/videos)
 * [Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg) 
+* [Geecon](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos)
