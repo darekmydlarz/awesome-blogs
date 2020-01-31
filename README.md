@@ -3,6 +3,7 @@
 ## Distributed Systems & Architecture
 * https://patoarchitekci.io/ 🇵🇱🎧
 * https://netflixtechblog.com/@NetflixTechBlog
+* https://engineering.linkedin.com/blog
 
 ## Docker & Kubernetes
 * http://szkoladockera.pl/
