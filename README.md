@@ -1,7 +1,8 @@
 # Awesome Blogs
 
 ## Distributed Systems & Architecture
-* https://patoarchitekci.io/ 🇵🇱
+* https://patoarchitekci.io/ 🇵🇱🎧
+* https://netflixtechblog.com/@NetflixTechBlog
 
 ## Docker & Kubernetes
 * http://szkoladockera.pl/
