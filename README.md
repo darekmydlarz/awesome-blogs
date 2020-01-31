@@ -23,9 +23,10 @@
 
 ## Java / Spring
 * https://reflectoring.io/ 
-* https://piotrminkowski.com/
 * https://www.marcobehler.com/guides
+* https://piotrminkowski.com/
 * https://vladmihalcea.com/blog/
+* http://dolszewski.com/blog/
 
 ## Podcasts 🎧
 * https://patoarchitekci.io/ 🇵🇱
