@@ -1,39 +1,41 @@
 # Awesome Blogs
 
-## Distributed Systems & Architecture
+## Evergreen Articles 🍀
+
+## Distributed Systems & Architecture 🏗
 * https://netflixtechblog.com/@NetflixTechBlog
 * https://engineering.linkedin.com/blog
 
-## DDD
+## DDD 🚀
 * https://medium.com/design-and-tech-co
 
-## Docker & Kubernetes
+## Docker & Kubernetes 🚢
 * http://szkoladockera.pl/ 🇵🇱
 * https://vsupalov.com/articles/
 
-## Elasticsearch, Logs
+## Elasticsearch, Logs 📜
 * https://coralogix.com/category/Log-analytics-blog/
 * https://wiadrodanych.pl/ 🇵🇱
 * https://sematext.com/blog/
 
-# Java
+# Java ☕️
 * https://java.christmas/
 
-## Magazines & Companies
+## Magazines & Companies 📰
 * https://increment.com/
 * http://jvm-bloggers.com/
 * https://blog.softwaremill.com/
 * https://www.nexocode.com/blog/
 
-## OOP & Software Craftsmanship 
+## OOP & Software Craftsmanship 🐶
 * https://www.yegor256.com/
 * https://blog.pragmaticengineer.com/
 * https://phauer.com/
 
-## Performance & Tunning
+## Performance & Tunning 🏎
 * 
 
-## Spring
+## Spring 🌿
 * https://reflectoring.io/ 
 * https://www.marcobehler.com/guides
 * https://piotrminkowski.com/
