@@ -1,6 +1,7 @@
 # Awesome Blogs
 
 ## Evergreen Articles 🍀
+* [Things I Learn't The Hard Way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
 ## Distributed Systems & Architecture 🏗
 * https://netflixtechblog.com/@NetflixTechBlog
