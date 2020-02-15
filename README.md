@@ -10,9 +10,10 @@
 ## DDD 
 * https://medium.com/design-and-tech-co
 
-## Docker & Kubernetes 
+## Docker & Kubernetes & DevOps
 * http://szkoladockera.pl/ 🇵🇱
 * https://vsupalov.com/articles/
+* [The Good Parts of AWS](https://gumroad.com/l/aws-good-parts) 📕
 
 ## Elasticsearch, Logs 
 * https://coralogix.com/category/Log-analytics-blog/
