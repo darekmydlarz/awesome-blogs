@@ -4,24 +4,24 @@
 * [Things I Learn't The Hard Way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
 ## Distributed Systems & Architecture 
-* https://netflixtechblog.com/@NetflixTechBlog
-* https://engineering.linkedin.com/blog
+* [Netflix Tech Blog](https://netflixtechblog.com/@NetflixTechBlog)
+* [Linkedin Tech Blog](https://engineering.linkedin.com/blog)
 
 ## DDD 
-* https://medium.com/design-and-tech-co
+* [Design and Tech](https://medium.com/design-and-tech-co)
 
 ## Docker & Kubernetes & DevOps
-* http://szkoladockera.pl/ 🇵🇱
-* https://vsupalov.com/articles/
+* [Szkoła Dockera](http://szkoladockera.pl/) 🇵🇱
+* [vsupalov](https://vsupalov.com/articles/)
 * [The Good Parts of AWS](https://gumroad.com/l/aws-good-parts) 📕
 
 ## Elasticsearch, Logs 
-* https://coralogix.com/category/Log-analytics-blog/
-* https://wiadrodanych.pl/ 🇵🇱
-* https://sematext.com/blog/
+* [Coralogix](https://coralogix.com/category/Log-analytics-blog/)
+* [Wiadro Danych](https://wiadrodanych.pl/) 🇵🇱
+* [Sematext](https://sematext.com/blog/)
 
 # Java 
-* https://java.christmas/
+* [Java Christmas](https://java.christmas/)
 * [Java Practices](http://www.javapractices.com/home/HomeAction.do)
 
 ## Magazines & Companies 
