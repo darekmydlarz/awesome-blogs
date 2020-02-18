@@ -22,6 +22,7 @@
 
 # Java 
 * https://java.christmas/
+* [Java Practices](http://www.javapractices.com/home/HomeAction.do)
 
 ## Magazines & Companies 
 * https://increment.com/
