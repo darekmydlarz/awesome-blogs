@@ -38,6 +38,9 @@
 ## Performance & Tunning 
 * 
 
+## Project Management & Friends
+* [Basecamp Getting Real](https://basecamp.com/gettingreal) 📕
+
 ## Spring 
 * https://reflectoring.io/ 
 * https://www.marcobehler.com/guides
