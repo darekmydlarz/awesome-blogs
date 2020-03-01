@@ -6,6 +6,8 @@
 ## Distributed Systems & Architecture 
 * [Netflix Tech Blog](https://netflixtechblog.com/@NetflixTechBlog)
 * [Linkedin Tech Blog](https://engineering.linkedin.com/blog)
+* [Base DS - Exploring the basics of distributed systems, every alternate Wednesday, for a year.
+](https://medium.com/baseds)
 
 ## DDD 
 * [Design and Tech](https://medium.com/design-and-tech-co)
